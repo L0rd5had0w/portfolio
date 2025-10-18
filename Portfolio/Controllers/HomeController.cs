@@ -15,7 +15,7 @@ namespace Portfolio.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Pagina para mi portafolio personal y profesional.";
 
             return View();
         }
